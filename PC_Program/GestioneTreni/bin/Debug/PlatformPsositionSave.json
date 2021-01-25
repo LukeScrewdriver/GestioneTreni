@@ -1,0 +1,19 @@
+{ 
+
+   "numbertowrite" : "1", 
+
+   "Oggetti" : [ 
+
+      { 
+
+         "Name" : "Binario1", 
+
+         "Position" : "354", 
+
+         "Busy" : "False"
+
+      }
+
+   ]
+
+}

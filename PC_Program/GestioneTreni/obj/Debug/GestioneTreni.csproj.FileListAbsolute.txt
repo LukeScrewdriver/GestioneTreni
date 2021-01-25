@@ -1,0 +1,40 @@
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\bin\Debug\GestioneTreni.exe.config
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\bin\Debug\GestioneTreni.exe
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\bin\Debug\GestioneTreni.pdb
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.Form1.resources
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.Properties.Resources.resources
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.csproj.GenerateResource.cache
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.csproj.CopyComplete
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.exe
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.pdb
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.csprojAssemblyReference.cache
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.Settings.resources
+C:\LUCA\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.Changelog.resources
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\bin\Debug\GestioneTreni.exe.config
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\bin\Debug\GestioneTreni.exe
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\bin\Debug\GestioneTreni.pdb
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\bin\Debug\ICSharpCode.SharpZipLib.dll
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.csprojAssemblyReference.cache
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.Changelog.resources
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.Form1.resources
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.Properties.Resources.resources
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.Settings.resources
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.csproj.GenerateResource.cache
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.csproj.CopyComplete
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.exe
+Z:\Programmazione\c#\Windows\GestioneTreni\GestioneTreni\obj\Debug\GestioneTreni.pdb
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\obj\Debug\GestioneTreni.csprojAssemblyReference.cache
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\obj\Debug\GestioneTreni.Changelog.resources
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\obj\Debug\GestioneTreni.Form1.resources
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\obj\Debug\GestioneTreni.Properties.Resources.resources
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\obj\Debug\GestioneTreni.Settings.resources
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\obj\Debug\GestioneTreni.csproj.GenerateResource.cache
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\obj\Debug\GestioneTreni.csproj.CoreCompileInputs.cache
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\obj\Debug\GestioneTreni.exe
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\obj\Debug\GestioneTreni.pdb
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\bin\Debug\GestioneTreni.exe.config
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\bin\Debug\GestioneTreni.exe
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\bin\Debug\GestioneTreni.pdb
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\bin\Debug\ICSharpCode.SharpZipLib.dll
+Y:\Lavoro\Github\PhoenixPixel\GestioneTreni\GestioneTreni\Pc program\GestioneTreni\obj\Debug\GestioneTreni.csproj.CopyComplete
